@@ -16,3 +16,13 @@ A collection of links and resources that I found extremely helpful.
 
 [Getting a gig (internship)](https://github.com/cassidoo/getting-a-gig/blob/master/README.md)
 
+
+#### Leadership:
+
+[Technical Leadership: Getting started](https://slack.engineering/technical-leadership-getting-started-e5161b1bf85c) >>
+Brenda Jin, an engineer at Slack, explains how to improve at leadership and influence people in a technical environment. Brenda also shares her study of effective communicators in her team. 
+
+#### Engineering Blogs:
+
+[uChat: Building Uber's internal chat solution](https://eng.uber.com/uchat/) >> How Uber's Employee Productivity Tools Team built a chat application for Uber's internal use using Mattermost(an open-source Slack clone). The blog discusses some crucial choices the team made to make uChat highly scalable.
+
