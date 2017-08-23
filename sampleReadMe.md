@@ -1,12 +1,12 @@
 # Rechat API
 
-## Prerequisites
+### Prerequisites
 
 + Git
 + Node.js version v8.x.x
 + Postgres
 
-## Getting started
+### Getting started
 
 ##### Clone the repository
 
@@ -20,6 +20,7 @@ cd server
 ```
 npm install
 ```
+
 ##### Import schema into your database
 ```
 psql <YOUR_DB_NAME> < data/minimal.sql
@@ -28,17 +29,16 @@ psql <YOUR_DB_NAME> < data/minimal.sql
 ##### Set configuration options of your database
 
 ```bash
-vim lib/config.js
+vim lib/configs/developments.js
 ```
 
-## Running the application
+### Running tests
+```bash
+npm test
+```
+
+### Running the application
 ```bash
 npm start
-```
-listening at port 3078
-
-## Running tests
-
-```
-npm test
+//listening at port 3078
 ```
