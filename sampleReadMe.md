@@ -2,45 +2,43 @@
 
 ## Prerequisites
 
-```bash
-Git
-Node.js version v8.x.x
-Postgres
-```
++ Git
++ Node.js version v8.x.x
++ Postgres
+
 ## Getting started
 
-#### Clone the repository
+##### Clone the repository
 
-```bash
-git clone git@bitbucket.org:rechat/server.git
-cd shortlisted-server
+```
+git clone git@gitlab.com:rechat/server.git
+cd server
 ```
 
-#### Install the dependencies
+##### Install dependencies
 
-```bash
+```
 npm install
 ```
-#### Import schema into your database
-```bash
-psql rechat < lib/data/schema.sql
+##### Import schema into your database
+```
+psql <YOUR_DB_NAME> < data/minimal.sql
 ```
 
-#### Set configuration options of your database
+##### Set configuration options of your database
 
 ```bash
 vim lib/config.js
 ```
-And set configuration options of your database.
 
-## Run the app
+## Running the application
 ```bash
 npm start
 ```
 listening at port 3078
 
-## Howto Test
+## Running tests
 
-```bash
+```
 npm test
 ```
