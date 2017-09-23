@@ -10,6 +10,14 @@
 
 </script>
 
+<!---  Comments for SEO
+Rahul Sonwalkar
+Rahul Sonwalkar
+Rahul Sonwalkar
+UT Dallas
+UT Dallas
+-->
+<title> Rahul Sonwalkar | Engineer & Product </title>
 Software Engineering Intern @ Rechat.com | President @ HackersUTD
 
 [Blog](http://rahul.ru)    |   [About](http://rahul.ru/about)   |   [Resume](http://rahul.ru/RahulSonwalkar_RESUME.pdf) | [LinkedIn](https://linkedin.com/in/rahulsonwalkar23) | [Github](https://github.com/rahulsonwalkar)
@@ -23,3 +31,18 @@ This past summer, my friends and I flew to Las Vegas to attend Sabre's Annual Ha
 ### A collection of links and resources (updated)
 
 A collection of links and resources that I found extremely helpful. Contains both programming and non-programming resources and can be found [here](http://rahul.ru/resources).
+
+<!---  Comments for SEO
+Rahul Sonwalkar
+Rahul Sonwalkar
+Rahul Sonwalkar
+UT Dallas
+UT Dallas
+-->
+<!---  Comments for SEO
+Rahul Sonwalkar
+Rahul Sonwalkar
+Rahul Sonwalkar
+UT Dallas
+UT Dallas
+-->
