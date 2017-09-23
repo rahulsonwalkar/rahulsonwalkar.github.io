@@ -1,4 +1,6 @@
 
+<meta name="description" content="Rahul Sonwalkar. I'm a software engineer and product manager who is excited about almost anything in the world. I study computer science at UT Dallas. I have interned on Rechat's API team and a few other startups in the past.">
+
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
