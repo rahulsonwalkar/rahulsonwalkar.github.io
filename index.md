@@ -86,10 +86,24 @@ UT Dallas
 
 ## Blog
 
+### Hacking into Hackathons
+
+Hackathon registrations can be hacked. Here's how you could do it.
+
+
 ### My experience at Sabre's Hack TTX 2017
 
 This past summer, my friends and I flew to Las Vegas to attend Sabre's Annual Hackathon (Hack TTX). My team's IoT hack, Flyo, won the Grand Prize and I wrote about our experience on UT Dallas [CS Department's website](http://cs.utdallas.edu/2017-student-summer-computer-science-experiences/) and on [Sabre's blog](https://www.sabre.com/insights/developers-go-all-in-at-hackathonttx-in-las-vegas/)
 
+
 ### A collection of links and resources (updated)
 
 A collection of links and resources that I found extremely helpful. Contains both programming and non-programming resources and can be found [here](http://rahul.ru/resources).
+
+<!---  Comments for SEO
+Rahul Sonwalkar
+Rahul Sonwalkar
+Rahul Sonwalkar
+UT Dallas
+UT Dallas
+-->
