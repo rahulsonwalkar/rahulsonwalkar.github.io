@@ -26,11 +26,15 @@ Use it at your own risk.
 ### How it works
 Once hackathons send out an acceptance, it contains a link to an RSVP form. 
 
-<!--- <img src="https://github.com/rahulsonwalkar/Dimple/blob/master/images/Email-Screenshot-Hacking-into-hackathons.jpg" width="48"> --->
-![Email Screenshot](http://rahul.ru/images/Email-Screenshot-Hacking-Into-Hackathons.png)
 
-This is usually a Typeform link. If it isn't, then you are out of luck.
-![Typeform Link Screenshot](http://rahul.ru/images/Typeform-Screenshot-Hacking-Into-Hackathons.png)
+
+<img src="http://rahul.ru/images/Email-Screenshot-Hacking-Into-Hackathons.png" width="70%"> 
+
+This link is usually a Typeform link. If it isn't, then you are out of luck.
+
+
+
+<img src="http://rahul.ru/images/Typeform-Screenshot-Hacking-Into-Hackathons.png" width="70%" height="80%"> 
 
 These are automated emails and once you fill this form out, your details are entered into a sheet of 100s of hackers who will be attending that hackathon.
 
