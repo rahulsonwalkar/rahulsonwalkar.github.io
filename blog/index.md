@@ -59,7 +59,7 @@ UT Dallas
 
 ### Hacking into Hackathons
 
-Hackathon registrations can be hacked. Here's how you could do it.
+Hackathon registrations can be hacked. [Here's](http://rahul.ru/blog/hacking-into-hackathons) how you could do it.
 
 
 ### My experience at Sabre's Hack TTX 2017
