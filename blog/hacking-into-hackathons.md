@@ -30,11 +30,16 @@ Once hackathons send out an acceptance, it contains a link to an RSVP form.
 
 <img src="http://rahul.ru/images/Email-Screenshot-Hacking-Into-Hackathons.png" width="70%"> 
 
+
+
 This link is usually a Typeform link. If it isn't, then you are out of luck.
 
 
 
+
 <img src="http://rahul.ru/images/Typeform-Screenshot-Hacking-Into-Hackathons.png" width="70%" height="80%"> 
+
+
 
 These are automated emails and once you fill this form out, your details are entered into a sheet of 100s of hackers who will be attending that hackathon.
 
@@ -45,3 +50,12 @@ These are automated emails and once you fill this form out, your details are ent
 3. Refresh the page
 4. Fill out the RSVP form (generic details like diet restrictions etc)
 5. Ta-da!!
+
+**Bonus:** Once you are on the RSVPed list, you will be receiving emails leading up to the hackathon. These are just simple reminders to attend the event or info about parking etc. These emails can be used as proofs to attend hackathons.
+
+
+
+## What can Hackathons organizers do?
+
+* Ditch Typeform?! Or use a second parameter in the link, apart from email addresses. 
+* Create custom forms with login required for access. (Most hackathons already have a login system in place for applications)
