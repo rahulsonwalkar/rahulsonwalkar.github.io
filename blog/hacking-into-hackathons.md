@@ -53,7 +53,19 @@ These are automated emails and once you fill this form out, your details are ent
 
 **Bonus:** Once you are on the RSVPed list, you will be receiving emails leading up to the hackathon. These are just simple reminders to attend the event or info about parking etc. These emails can be used as proofs to attend hackathons.
 
+## Hackable links of some upcoming hackathons:
 
+1. HackHarvard 2017 @ Harvard University 
+
+`https://hackharvard.typeform.com/to/y0TamK?name=Jon&email=jon_snow@gmail.com&lname=Snow`
+
+2. HackRice 2017 @ Rice University
+
+`https://hackrice.typeform.com/to/Q6Knsh?email=jon_snow@gmail.com`
+
+3. HackNAU 2017 @ Northern American University
+
+ `https://hacknau.typeform.com/to/Zm5tsk`
 
 ## What can Hackathons organizers do?
 
