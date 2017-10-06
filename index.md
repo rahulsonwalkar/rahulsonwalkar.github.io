@@ -55,7 +55,7 @@ UT Dallas
 UT Dallas
 -->
 
-## About Me
+#### About Me
 
 Hey! I'm a CS Sophomore at The University of Texas at Dallas. Starting Fall'17, I'll be joining [Rechat's](https://rechat.com) API & Platform team as a Software Engineering Intern.
 
@@ -63,7 +63,7 @@ I love learning new things and going to hackathons. Some of my cool projects are
  
 Feel free to connect with me on [LinkedIn](https://linkedin.com/in/rahulsonwalkar23) or email me at ```rahulsonwalkar23[at]gmail.com```
 
-## About Hackers UTD
+#### About Hackers UTD
 
 [Hackers UTD](https://hackersutd.com) is a hackathon enthusiast club at UT Dallas. We're a bunch of students who love learning new technologies and working on cool ideas. We intend to spread it across campus and get more students involved with technology :)
 
