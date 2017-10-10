@@ -22,7 +22,7 @@ UT Dallas
 <title> Rahul Sonwalkar | Engineer & Product </title>
 Software Engineering Intern @ Rechat.com | President @ HackersUTD
 
-[Blog](http://rahul.ru)    |   [About](http://rahul.ru/about)   |   [Resume](http://rahul.ru/RahulSonwalkar_RESUME.pdf) | [LinkedIn](https://linkedin.com/in/rahulsonwalkar23) | [Github](https://github.com/rahulsonwalkar)
+[Blog](http://rahul.ru/blog)    |   [About](http://rahul.ru/about)   |   [Resume](http://rahul.ru/RahulSonwalkar_RESUME.pdf) | [LinkedIn](https://linkedin.com/in/rahulsonwalkar23) | [Github](https://github.com/rahulsonwalkar)
 
 <!---  Comments for SEO
 Rahul Sonwalkar
