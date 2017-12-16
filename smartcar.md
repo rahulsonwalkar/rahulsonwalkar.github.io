@@ -15,7 +15,7 @@ Contents:
 
 Clone the repo:
 ```
-$ git clone https://github.com/rahulsonwalkar/Gordon
+$ git clone https://github.com/rahulsonwalkar/smartcar
 ```
 
 Install dependencies & start:
