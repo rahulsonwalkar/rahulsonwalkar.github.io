@@ -23,8 +23,23 @@ function setTeams() {
     var hSpades = document.getElementById("hSpades");
 	
 //Since DOM objects cannot be reused, create an array of identical objects.
-
 	var optionList = [ document.createElement("option"),
+ document.createElement("option"),
+ document.createElement("option"),
+ document.createElement("option"),
+ document.createElement("option"),
+ document.createElement("option"),
+ document.createElement("option"),
+ document.createElement("option"),
+ document.createElement("option"),
+ document.createElement("option"),
+ document.createElement("option"),
+ document.createElement("option"),
+ document.createElement("option"),
+ document.createElement("option"),
+ document.createElement("option"),
+ document.createElement("option"),
+ document.createElement("option"),
  document.createElement("option"),
  document.createElement("option"),
  document.createElement("option"),
@@ -57,6 +72,23 @@ function setTeams() {
 	optionList[13].text = document.getElementById("team2").value;
 	optionList[14].text = document.getElementById("team1").value;
 	optionList[15].text = document.getElementById("team2").value;
+    
+    optionList[16].text = "0.5" + document.getElementById("team1").value;
+	optionList[17].text = "0.5" +document.getElementById("team2").value;
+	optionList[18].text = "0.5" +document.getElementById("team1").value;
+	optionList[19].text = "0.5" +document.getElementById("team2").value;
+	optionList[20].text = "0.5" +document.getElementById("team1").value;
+	optionList[21].text = "0.5" +document.getElementById("team2").value;
+	optionList[22].text = "0.5" +document.getElementById("team1").value;
+	optionList[23].text = "0.5" +document.getElementById("team2").value;
+	optionList[24].text = "0.5" +document.getElementById("team1").value;
+	optionList[25].text = "0.5" +document.getElementById("team2").value;
+	optionList[26].text = "0.5" +document.getElementById("team1").value;
+	optionList[27].text = "0.5" +document.getElementById("team2").value;
+	optionList[28].text = "0.5" +document.getElementById("team1").value;
+	optionList[29].text = "0.5" +document.getElementById("team2").value;
+	optionList[30].text = "0.5" +document.getElementById("team1").value;
+	optionList[31].text = "0.5" +document.getElementById("team2").value;
 
 
     lClub.add(optionList[0], lClub[0]);
@@ -75,6 +107,23 @@ function setTeams() {
 	hDiamonds.add(optionList[13], hDiamonds[1]);
     hSpades.add(optionList[14], hSpades[0]);
 	hSpades.add(optionList[15], hSpades[1]);
+    
+	lClub.add(optionList[16], lClub[2]);
+	lClub.add(optionList[17], lClub[3]);
+	lHeart.add(optionList[20], lHeart[2]);
+	lHeart.add(optionList[21], lHeart[3]);
+	lDiamonds.add(optionList[22], lDiamonds[2]);
+	lDiamonds.add(optionList[23], lDiamonds[3]);
+	lSpades.add(optionList[24], lSpades[2]);
+	lSpades.add(optionList[25], lSpades[3]);
+	hClub.add(optionList[26], hClub[2]);
+	hClub.add(optionList[27], hClub[3]);
+	hHeart.add(optionList[28], hHeart[2]);
+	hHeart.add(optionList[29], hHeart[3]);
+	hDiamonds.add(optionList[30], hDiamonds[2]);
+	hDiamonds.add(optionList[31], hDiamonds[3]);
+    hSpades.add(optionList[14], hSpades[2]);
+	hSpades.add(optionList[15], hSpades[3]);
 	
 
 }
@@ -107,17 +156,17 @@ function setTeams() {
 
 <tr>
  <td> 3-8 </td>
- <td> <select id="lClub"><option value="">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</option></select> </td>
- <td> <select id="lHeart"><option value="">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</option></select> </td>
- <td> <select id="lDiamonds"><option value="">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</option></select> </td>
- <td> <select id="lSpades"><option value="">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</option></select> </td>
+ <td> <select id="lClub"><option value="">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</option><option value="">X</option></select> </td>
+ <td> <select id="lHeart"><option value="">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</option><option value="">X</option></select> </td>
+ <td> <select id="lDiamonds"><option value="">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</option><option value="">X</option></select> </td>
+ <td> <select id="lSpades"><option value="">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</option><option value="">X</option></select> </td>
 </tr>
 <tr>
  <td> 9-A </td>
- <td> <select id="hClub"><option value="">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</option></select> </td>
- <td> <select id="hHeart"><option value="">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</option></select> </td>
- <td> <select id="hDiamonds"><option value="">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</option></select> </td>
- <td> <select id="hSpades"><option value="">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</option></select> </td>
+ <td> <select id="hClub"><option value="">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</option><option value="">X</option></select> </td>
+ <td> <select id="hHeart"><option value="">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</option><option value="">X</option></select> </td>
+ <td> <select id="hDiamonds"><option value="">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</option><option value="">X</option></select> </td>
+ <td> <select id="hSpades"><option value="">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</option><option value="">X</option></select> </td>
 </tr>
 </table>
 </center>
