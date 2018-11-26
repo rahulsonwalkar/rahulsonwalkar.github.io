@@ -16,7 +16,7 @@ UT Dallas
 
 [Blog](http://rahul.ru)    |   [About](http://rahul.ru/about)   |   [Resume](http://rahul.ru/RahulSonwalkar_RESUME.pdf) | [LinkedIn](https://linkedin.com/in/rahulsonwalkar23) | [Github](https://github.com/rahulsonwalkar)
 
-## Leetcode Problems With High Learning Outcomes
+## Leetcode Problems With Strong Learning Outcomes
 
 I did the Leetcode grind, and got offers from Uber, Facebook, LinkedIn, Nextdoor and WalmartLabs.
 Here are the problems that I think are crucial to developing a strong understanding of interview question patterns.
@@ -24,7 +24,7 @@ Here are the problems that I think are crucial to developing a strong understand
 Also must see: [Arden Dertat's list](http://www.ardendertat.com/2012/01/09/programming-interview-questions/).
 
 
-Problems are grouped by the concepts required to solve them.
+Problems are grouped according to the concepts required to solve them.
 
 #### Backtracking
 [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number)
@@ -74,8 +74,7 @@ Problems are grouped by the concepts required to solve them.
 
 [251. Flatten 2D Vector](https://leetcode.com/problems/flatten-2d-vector)
 
-#### Dynamic Programming rip
-
+#### Dynamic Programming (rip)
 Tip: Try coming up with the recursive logic first. Converting that to DP is the easy part.
 
 [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching)
@@ -109,7 +108,6 @@ Tip: Try coming up with the recursive logic first. Converting that to DP is the 
 [583. Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings)
 
 #### Graph Problems
-
 [200. Number of Islands](https://leetcode.com/problems/number-of-islands)
 
 [547. Friend Circles](https://leetcode.com/problems/friend-circles)
@@ -129,7 +127,6 @@ Tip: Try coming up with the recursive logic first. Converting that to DP is the 
 Graph related problems are frequently asked, and there are more quality problems out there that you should explore.
 
 #### Greedy
-
 [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists)
 
 [253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii)
@@ -153,51 +150,114 @@ Quality reading material on this category: Chapter 6 in [Competitive Programmerâ
 
 [398. Random Pick Index](https://leetcode.com/problems/random-pick-index)
 
-### 
-[]()
+#### Sliding Window Problems
+[3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)
 
-[]()
+[76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring)
 
-[]()
+[438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string)
 
-[]()
+[340. Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters)
 
-[]()
+Good reading on this topic:
+[Sourab Reddy's Medium post](https://medium.com/leetcode-patterns/leetcode-pattern-2-sliding-windows-for-strings-e19af105316b)
 
-[]()
+#### Topological Sort
 
-[]()
+[207. Course Schedule](https://leetcode.com/problems/course-schedule)
 
-[]()
+[210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii)
 
-[]()
+#### Tree Traversal
+It is a good idea to practice doing preorder, inorder and postorder traversals both iteratively and recrusively. Helps a great deal with approaching tree problems. 
 
-[]()
+Most tree problems are simple tweaks on a type of traversal, or simple DFS/BFS.
 
-[]()
+[98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree)
 
-[]()
+[236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree)
 
-[]()
+[103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal)
 
-[]()
+[102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal)
 
-[]()
+[543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree)
 
-[]()
+[199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view)
 
-[]()
+[94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal)
 
-[]()
+[230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst)
 
-[]()
+[652. Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees)
 
-[]()
+[144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal)
 
-[]()
+[515. Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row)
 
-[]()
+#### Miscellaneous
+[2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers)
 
-[]()
+[20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses)
 
-[]()
+[56. Merge Intervals](https://leetcode.com/problems/merge-intervals)
+
+[141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)
+The O(N) with constant space trick is intresting and has applications in many Linked List problems.
+
+[121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)
+
+[11. Container With Most Water](https://leetcode.com/problems/container-with-most-water)
+
+[238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self)
+
+[33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)
+
+[31. Next Permutation](https://leetcode.com/problems/next-permutation)
+
+[49. Group Anagrams](https://leetcode.com/problems/group-anagrams)
+
+[289. Game of Life](https://leetcode.com/problems/game-of-life)
+
+[50. Pow(x, n)](https://leetcode.com/problems/powx-n)
+
+[25. Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group)
+
+[560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k)
+
+[19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list)
+
+[636. Exclusive Time of Functions](https://leetcode.com/problems/exclusive-time-of-functions)
+
+[735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision)
+
+[150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation)
+
+[29. Divide Two Integers](https://leetcode.com/problems/divide-two-integers)
+Careful about overflows!
+
+[426. Convert Binary Search Tree to Sorted Doubly Linked List](https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list)
+
+[18. 4Sum](https://leetcode.com/problems/4sum)
+
+[166. Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal)
+
+[567. Permutation in String](https://leetcode.com/problems/permutation-in-string)
+
+[755. Pour Water](https://leetcode.com/problems/pour-water)
+
+[34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array)
+
+[209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum)
+
+[852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array)
+
+[325. Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k)
+
+[654. Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree)
+
+[266. Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation)
+
+[161. One Edit Distance](https://leetcode.com/problems/one-edit-distance)
+
+#### Motivation
