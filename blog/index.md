@@ -61,17 +61,17 @@ UT Dallas
 
 I did the Leetcode grind and got offers from Uber, Facebook, LinkedIn, Nextdoor and WalmartLabs. Here are problems I think you must do to develop a strong understanding of the patterns.
 
-### Hacking into Hackathons
+### [Hacking into Hackathons](http://rahul.ru/blog/hacking-into-hackathons)
 
 Hackathon registrations can be hacked. [Here's](http://rahul.ru/blog/hacking-into-hackathons) how you could do it.
 
 
-### My experience at Sabre's Hack TTX 2017
+### [My experience at Sabre's Hack TTX 2017](https://www.sabre.com/insights/developers-go-all-in-at-hackathonttx-in-las-vegas/)
 
 This past summer, my friends and I flew to Las Vegas to attend Sabre's Annual Hackathon (Hack TTX). My team's IoT hack, Flyo, won the Grand Prize and I wrote about our experience on UT Dallas [CS Department's website](http://cs.utdallas.edu/2017-student-summer-computer-science-experiences/) and on [Sabre's blog](https://www.sabre.com/insights/developers-go-all-in-at-hackathonttx-in-las-vegas/)
 
 
-### A collection of links and resources (updated)
+### [A collection of links and resources (updated)](http://rahul.ru/resources)
 
 A collection of links and resources that I found extremely helpful. Contains both programming and non-programming resources and can be found [here](http://rahul.ru/resources).
 
@@ -81,6 +81,8 @@ Rahul Sonwalkar
 Rahul Sonwalkar
 UT Dallas
 UT Dallas
+Uber
+Facebook
 -->
 <!---  Comments for SEO
 Rahul Sonwalkar
@@ -88,4 +90,6 @@ Rahul Sonwalkar
 Rahul Sonwalkar
 UT Dallas
 UT Dallas
+Uber
+Facebook
 -->
