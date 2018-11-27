@@ -57,6 +57,10 @@ UT Dallas
 
 ## Blog
 
+### [Leetcode problems with strong learning outcomes](http://rahul.ru/blog/leetcode-problems-with-high-learning-outcomes).
+
+I did the Leetcode grind and got offers from Uber, Facebook, LinkedIn, Nextdoor and WalmartLabs. Here are problems I think you must do to develop a strong understanding of the patterns.
+
 ### Hacking into Hackathons
 
 Hackathon registrations can be hacked. [Here's](http://rahul.ru/blog/hacking-into-hackathons) how you could do it.
