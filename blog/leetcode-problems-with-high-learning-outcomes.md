@@ -19,14 +19,13 @@ UT Dallas
 ## Leetcode Problems With Strong Learning Outcomes
 
 I did the Leetcode grind, and got offers from Uber, Facebook, LinkedIn, Nextdoor and WalmartLabs.
-Here are the problems that I think are crucial to developing a strong understanding of interview question patterns.
+Here are the problems that I think are crucial to developing a strong understanding of interview question patterns. **(Remember simply knowing your patterns is half the battle :wink:)**
 
-Also must see: [Arden Dertat's list](http://www.ardendertat.com/2012/01/09/programming-interview-questions/).
-
+Also must see (although a little outdated): [Arden Dertat's list](http://www.ardendertat.com/2012/01/09/programming-interview-questions/).
 
 Problems are grouped according to the concepts required to solve them.
 
-#### Backtracking
+#### Backtracking :
 [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number)
 
 [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses)
@@ -74,8 +73,8 @@ Problems are grouped according to the concepts required to solve them.
 
 [251. Flatten 2D Vector](https://leetcode.com/problems/flatten-2d-vector)
 
-#### Dynamic Programming (rip)
-Tip: Try coming up with the recursive logic first. Converting that to DP is the easy part.
+#### Dynamic Programming :cold_sweat:
+**Tip**: Try coming up with the recursive logic first. Converting that to DP is the easy part.
 
 [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching)
 
@@ -107,7 +106,7 @@ Tip: Try coming up with the recursive logic first. Converting that to DP is the 
 
 [583. Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings)
 
-#### Graph Problems
+#### Graph Problems 
 [200. Number of Islands](https://leetcode.com/problems/number-of-islands)
 
 [547. Friend Circles](https://leetcode.com/problems/friend-circles)
